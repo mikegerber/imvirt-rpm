@@ -1,6 +1,6 @@
 # imvirt-rpm
 
-Build Fedora and Rocky Linux RPMs for imvirt.
+Build Rocky Linux RPMs for imvirt.
 
 
 | Distribution       | Status
